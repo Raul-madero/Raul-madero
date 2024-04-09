@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Raul-madero
-- 👀 I’m interested in full-stack web Developing
-- 🌱 I’m currently using Bootstrap, React, JavaScript, HTML5, CSS3, Python, PHP, MySQL
-- 💞️ I’m looking to collaborate on Web Developing
+- 👀 I’m interested in full-stack web Development
+- 💞️ I’m looking to collaborate on Web Development using ReactJS | Python | HTML | CSS | JavaScript | Git | Github | Bootstrap | flask | Command-line terminal
+    CMD | The DOM | SQL | Jest | API | Application programming interface | Databases | Rest APIs
+    Patron MVC | Docker | CI/CD | SCRUM | MySQL | Postgresql
 - 📫 How to reach me:
 -             r.madero.ramirez@gmail.com
 -             +52 3310401077
