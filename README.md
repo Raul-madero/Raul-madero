@@ -4,7 +4,7 @@
     CMD | The DOM | SQL | Jest | API | Application programming interface | Databases | Rest APIs
     Patron MVC | Docker | CI/CD | SCRUM | MySQL | Postgresql
 - 📫 How to reach me:
--             r.madero.ramirez@gmail.com
+-             raul.madero.ramirez@gmail.com
 -             +52 3310401077
 -             https://www.linkedin.com/in/raulmadero/
 -             https://raul-madero.vercel.app/
